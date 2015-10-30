@@ -19,6 +19,7 @@ public class TicTacToeControl : MonoBehaviour {
 	
 	}
 	
+	// When GUI updates
 	public void OnGUI() {
 
 		switch (gameState) {
